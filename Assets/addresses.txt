@@ -1,0 +1,10 @@
+123 Sunshine Lane, Lucknow, Uttar Pradesh - 226001
+456 Rainbow Road, Jaipur, Rajasthan - 302004
+789 Moonlight Street, Bhopal, Madhya Pradesh - 462003
+101 Starlight Avenue, Chandigarh, Punjab - 160017
+222 Sunrise Boulevard, Indore, Madhya Pradesh - 452001
+333 Sunset Drive, Kanpur, Uttar Pradesh - 208001
+555 Riverfront Road, Agra, Uttar Pradesh - 282001
+777 Ocean View Lane, Patna, Bihar - 800001
+888 Mountain Peak Avenue, Ranchi, Jharkhand - 834001
+999 Forest Hill Street, Jabalpur, Madhya Pradesh - 482001
